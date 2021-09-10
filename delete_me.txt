@@ -1,3 +1,23 @@
 Adding some text here to solve question 3 here: https://github.com/blentz100/missing-semester-solutions
 
 Now going to commit this change and then add some more text below this line.
+
+
+
+****************************
+
+The above changes were committed and the commit data is the following
+
+commit ef485e998e909d0c97418de9215334393063369d (HEAD -> master, origin/master, origin/HEAD)
+Author: Brendan Lentz <66037960+blentz100@users.noreply.github.com>
+Date:   Fri Sep 10 08:15:08 2021 -0700
+
+    created the delete me file for testing purposes
+
+
+Now going to commit this change
+
+****************************
+
+
+

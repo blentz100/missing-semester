@@ -1,0 +1,3 @@
+Adding some text here to solve question 3 here: https://github.com/blentz100/missing-semester-solutions
+
+Now going to commit this change and then add some more text below this line.

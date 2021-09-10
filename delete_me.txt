@@ -20,4 +20,7 @@ Now going to commit this change
 ****************************
 
 
+The above has now been committed, and both times the changes were successfully
+pushed back to github. will do one more final commit for a total of 3.
 
+*****************************
